@@ -1,5 +1,6 @@
 Color Decoration Block
 ======================
+
 Adds color blocks that light.
 
 Version: 1.0
