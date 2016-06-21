@@ -1,3 +1,2 @@
 GOOD: Adds color blocks that light.
-
 BAD:  Color Decoration Block Mod for Minetest.
